@@ -18,9 +18,9 @@ It integrates **cross-modal contrastive learning** and **Multiple Instance Learn
 ---
 
 ## Repository Structure
-GeoTwin_MIL/
-├── featureExtract/ # Feature extraction scripts
-├── image_geotwin_feature_1024/ # Example pre-extracted features
+GeoTwin_MIL
+├── featureExtract # Feature extraction scripts
+├── image_geotwin_feature_1024 # Example pre-extracted features
 ├── dataset.py # Dataset loading and preprocessing
 ├── model.py # Model architecture (contrastive + MIL)
 ├── main.py # Training and evaluation pipeline
