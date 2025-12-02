@@ -1,6 +1,5 @@
 # GeoTwin_MIL
-**A Novel Evaluation Framework for 15-Minute City Using Satellite Imagery**  
-Accepted at **ACM SIGSPATIAL 2025**
+**A Novel Evaluation Framework for 15-Minute City Using Satellite Imagery**  accepted at **ACM SIGSPATIAL 2025**
 
 ---
 
