@@ -136,17 +136,6 @@ data/
 
 ---
 
-## 📈 Results
-
-| Method | mAP | F1-Score | AUC |
-|--------|-----|----------|-----|
-| Baseline | - | - | - |
-| **GeoTwin_MIL (Ours)** | **-** | **-** | **-** |
-
-*Results will be updated upon paper publication.*
-
----
-
 ## 📝 Citation
 
 If you find this work useful, please cite our paper:
@@ -170,9 +159,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgements
 
-- [ACM SIGSPATIAL](https://sigspatial.org/) for accepting our work
-- [OpenStreetMap](https://www.openstreetmap.org/) for map data
-
+- [ACM SIGSPATIAL](https://sigspatial.org/) for accepting our work.
+- ThisworkwassupportedbytheNationalResearch Foundation of Korea(NRF) grant funded by the Korea government(MSIT)(No.RS-2022-NR068758).
 ---
 
 ## 📧 Contact
