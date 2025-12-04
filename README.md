@@ -143,7 +143,7 @@ If you find this work useful, please cite our paper:
 ```bibtex
 @inproceedings{geotwin2025,
   title={A Novel Evaluation Framework for 15-Minute City Using Satellite Imagery},
-  author={},
+  author={Chanjae Song, Seongyeub Chu, Jongwoo Kim, and Mun Yong Yi},
   booktitle={Proceedings of the 33rd ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems},
   year={2025}
 }
