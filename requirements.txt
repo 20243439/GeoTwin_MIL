@@ -1,0 +1,8 @@
+nystrom-attention
+numpy
+pandas
+Pillow
+scikit-learn
+torch
+torchvision
+tqdm
