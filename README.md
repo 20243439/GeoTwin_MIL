@@ -16,7 +16,7 @@
 **GeoTwin_MIL** is a multi-modal deep learning framework for evaluating **15-Minute City (15MC)** completeness using satellite and map imagery. The framework integrates **cross-modal contrastive learning** and **Multiple Instance Learning (MIL)** to predict multi-label urban functions at the regional level.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/xxxxx.png" width="800"/>
+  <img src="assets/framework.png" width="800"/>
 </p>
 
 ---
